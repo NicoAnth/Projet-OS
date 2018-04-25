@@ -1,0 +1,1 @@
+arguments actionJoueur(JOUEUR j[], deckt_t* d, int nJoueurs)
